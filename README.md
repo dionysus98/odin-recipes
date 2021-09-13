@@ -1,0 +1,1 @@
+pure basic html project - odin project 1 
